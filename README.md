@@ -49,9 +49,9 @@
 ## 📂 폴더 구조 (Directory Structure)
 
 ## 👤 작성자 (Author)
-- **Name**: [본인 영문 이름]
-- **Major**: [전공 입력]
-- **Contact**: [이메일 주소]
+- **Name**: Lee Won Seok
+- **Major**: Biomedical Engineering
+- **Contact**: icpuff83@khu.ac.kr
 
 ---
 *이 코드는 학습 목적으로 작성되었으며, 수업 내용에 따라 지속적으로 업데이트될 예정입니다.*
