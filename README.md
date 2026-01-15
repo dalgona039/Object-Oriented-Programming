@@ -60,4 +60,5 @@
 **표절(Plagiarism)** 로 간주되어 불이익을 받을 수 있으니 학습 참고용으로만 활용하시기 바랍니다.
 
 *Please note that copying this code for your coursework may be considered plagiarism.*
+
 *이 코드는 학습 목적으로 작성되었으며, 수업 내용에 따라 지속적으로 업데이트될 예정입니다.*
