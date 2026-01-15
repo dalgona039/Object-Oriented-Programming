@@ -54,4 +54,10 @@
 - **Contact**: icpuff83@khu.ac.kr
 
 ---
+## ⚠️ 주의사항 (Notice)
+이 저장소의 코드는 개인 학습 및 포트폴리오 목적으로 작성되었습니다.
+경희대학교 객체지향프로그래밍 수강생 분들은 이 코드를 과제에 그대로 복사하여 제출할 경우,
+**표절(Plagiarism)** 로 간주되어 불이익을 받을 수 있으니 학습 참고용으로만 활용하시기 바랍니다.
+
+*Please note that copying this code for your coursework may be considered plagiarism.*
 *이 코드는 학습 목적으로 작성되었으며, 수업 내용에 따라 지속적으로 업데이트될 예정입니다.*
