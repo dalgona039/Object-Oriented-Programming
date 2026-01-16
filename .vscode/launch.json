@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C++ Debug (clang)",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "args": [],
+            "stopOnEntry": false,
+            "cwd": "${fileDirname}",
+            "terminal": "integrated",
+            "sourceLanguages": [
+                "cpp"
+            ]
+        }
+    ]
+}
