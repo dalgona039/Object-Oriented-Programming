@@ -48,6 +48,74 @@
 
 ## 📂 폴더 구조 (Directory Structure)
 
+```
+Object-Oriented-Programming/
+├─ cpp_basic/
+│  ├─ cpp_basic_01.cpp
+│  ├─ cpp_basic_02.cpp
+│  ├─ cpp_basic_03.cpp
+│  ├─ cpp_basic_04.cpp
+│  ├─ cpp_basic_05.cpp
+│  ├─ cpp_basic_06.cpp
+│  ├─ cpp_basic_07
+│  ├─ cpp_basic_07.cpp
+│  ├─ cpp_basic_07.dSYM/
+│  ├─ cpp_basic_08
+│  ├─ cpp_basic_08.cpp
+│  ├─ cpp_basic_08.dSYM/
+│  ├─ cpp_basic_09
+│  ├─ cpp_basic_09.cpp
+│  ├─ cpp_basic_09.dSYM/
+│  ├─ cpp_basic_10
+│  ├─ cpp_basic_10.cpp
+│  └─ cpp_basic_10.dSYM/
+├─ functions/
+│  ├─ betterprompt
+│  ├─ betterprompt.cpp
+│  ├─ betterprompt.dSYM/
+│  ├─ evenbetterprompt
+│  ├─ evenbetterprompt.cpp
+│  ├─ evenbetterprompt.dSYM/
+│  ├─ factorialtest
+│  ├─ factorialtest.cpp
+│  ├─ factorialtest.dSYM/
+│  ├─ falutyswap
+│  ├─ falutyswap.cpp
+│  ├─ falutyswap.dSYM/
+│  ├─ fuctions_01
+│  ├─ fuctions_01.cpp
+│  ├─ fuctions_01.dSYM/
+│  ├─ pass_by_value
+│  ├─ pass_by_value.cpp
+│  ├─ pass_by_value.dSYM/
+│  ├─ referencevar
+│  ├─ referencevar.cpp
+│  ├─ referencevar.dSYM/
+│  ├─ simplefunction
+│  ├─ simplefunction.cpp
+│  ├─ simplefunction.dSYM/
+│  ├─ swapwithreferences
+│  ├─ swapwithreferences.cpp
+│  └─ swapwithreferences.dSYM/
+├─ selection_repitition/
+│  ├─ betterdivision.cpp
+│  ├─ betterdivision.dSYM/
+│  ├─ bool.cpp
+│  ├─ iterativecounttofive
+│  ├─ iterativecounttofive.cpp
+│  ├─ iterativecounttofive.dSYM/
+│  ├─ newcheckrange
+│  ├─ newcheckrange.cpp
+│  └─ newcheckrange.dSYM/
+├─ .gitignore
+├─ LICENSE
+└─ README.md
+```
+
+참고
+- `*.dSYM/`: macOS에서 생성되는 디버그 심볼 번들입니다.
+- 확장자 없는 항목들은 빌드된 실행 파일(바이너리)입니다.
+
 ## 👤 작성자 (Author)
 - **Name**: Lee Won Seok
 - **Major**: Biomedical Engineering
