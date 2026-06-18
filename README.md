@@ -1,3 +1,5 @@
+[DeepL Translation of dalgona039/Object-Oriented-Programming]
+
 ﻿# 🏫 Kyung Hee Univ. - Object Oriented Programming (OOP)
 
 > **경희대학교 객체지향프로그래밍 (C++)** 수업 실습 및 학습 저장소입니다.  
